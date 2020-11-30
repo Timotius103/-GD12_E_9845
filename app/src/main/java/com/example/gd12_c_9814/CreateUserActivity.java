@@ -1,4 +1,4 @@
-package com.example.unguided8_xxxx;
+package com.example.gd12_c_9814;
 
 import android.app.ProgressDialog;
 import android.os.Bundle;
