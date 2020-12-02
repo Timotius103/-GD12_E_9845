@@ -1,4 +1,4 @@
-package com.example.gd12_c_9814;
+package com.example.gd12_e_9845;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.gd12_c_9814.UnitTest.LoginActivity;
+import com.example.gd12_e_9845.UnitTest.LoginActivity;
 import com.google.android.material.button.MaterialButton;
 
 public class UserProfileActivity extends AppCompatActivity {

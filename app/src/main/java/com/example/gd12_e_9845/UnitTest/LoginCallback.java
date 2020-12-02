@@ -1,6 +1,6 @@
-package com.example.gd12_c_9814.UnitTest;
+package com.example.gd12_e_9845.UnitTest;
 
-import com.example.gd12_c_9814.UserDAO;
+import com.example.gd12_e_9845.UserDAO;
 
 public interface LoginCallback {
     void onSuccess(boolean value, UserDAO user);

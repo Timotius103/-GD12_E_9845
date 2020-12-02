@@ -1,4 +1,4 @@
-package com.example.gd12_c_9814.UnitTest;
+package com.example.gd12_e_9845.UnitTest;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,8 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import com.example.gd12_c_9814.R;
-import com.example.gd12_c_9814.UserDAO;
+import com.example.gd12_e_9845.R;
+import com.example.gd12_e_9845.UserDAO;
 import com.google.android.material.button.MaterialButton;
 import com.google.android.material.textfield.TextInputEditText;
 

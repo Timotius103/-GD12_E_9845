@@ -1,11 +1,11 @@
-package com.example.gd12_c_9814.UnitTest;
+package com.example.gd12_e_9845.UnitTest;
 
 import android.content.Context;
 import android.content.Intent;
 
-import com.example.gd12_c_9814.MainActivity;
-import com.example.gd12_c_9814.UserDAO;
-import com.example.gd12_c_9814.UserProfileActivity;
+import com.example.gd12_e_9845.MainActivity;
+import com.example.gd12_e_9845.UserDAO;
+import com.example.gd12_e_9845.UserProfileActivity;
 
 public class ActivityUtil {
     private Context context;
