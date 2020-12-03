@@ -32,13 +32,13 @@ import static org.hamcrest.Matchers.is;
 
 @LargeTest
 @RunWith(AndroidJUnit4.class)
-public class LoginActivityTest9814 {
+public class LoginActivityTest9845 {
 
     @Rule
     public ActivityTestRule<LoginActivity> mActivityTestRule = new ActivityTestRule<>(LoginActivity.class);
 
     @Test
-    public void loginActivityTest9814() {
+    public void loginActivityTest9845() {
         ViewInteraction materialButton = onView(
                 allOf(withId(R.id.btnLogin), withText("LOGIN"),
                         childAtPosition(
